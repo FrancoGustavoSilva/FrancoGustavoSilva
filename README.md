@@ -1,3 +1,1 @@
-- Git config --global user.name "Franco"
-- Git config --global user.email "francogsrt99@gmail.com"
-- git remote https://github.com/FrancoGustavoSilva/FrancoGustavoSilva/edit/main/README.md
+
